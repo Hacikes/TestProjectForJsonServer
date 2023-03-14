@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "Get Posts",
+      "author": "typicode"
+    },
+    {
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Debug comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
